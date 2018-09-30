@@ -1,4 +1,6 @@
-# OpenEdge Design and Programming Patterns
+---
+title: OpenEdge Design and Programming Patterns
+---
 
 This is a repository of all of the design and programming patterns that I have learned while working in OpenEdge. Some of these are traditional patterns that you might have seen in the Gang of Four book that are implemented in OpenEdge; others are patterns to deal with specific problems in OpenEdge.
 
